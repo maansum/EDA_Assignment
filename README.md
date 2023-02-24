@@ -1,7 +1,9 @@
 # EAD
 Name: Suman Darji
+
 Roll:2018se37
-EAD labs and assignment
+
+EAD Lab Reports
 
 - [Assignment 1 - Student Management System](https://github.com/maansum/EAD/tree/main/assignments/assignment1)
 
